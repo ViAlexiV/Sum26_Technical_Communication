@@ -1,4 +1,5 @@
 [Developing_Color_Negative_Film.md](https://github.com/user-attachments/files/30170630/Developing_Color_Negative_Film.md)
+
 # Guide: Choosing and Developing Color Negative Film at Home
 
 This guide will help you choose the right color negative film and develop it yourself at home using the standard C-41 process. This document is intended for photographers who already know how to use a camera but are new to chemical processing.
@@ -40,7 +41,7 @@ Color development requires strict adherence to temperature control and timing. P
 
 ### Step 1. Loading film into the tank
 
-Enter a completely dark room. Open the cassette, wind the film onto the reel, and place it in the tank. Close the lid tightly. Only then can you turn on the light.
+Enter a completely dark room. Open the cassette, wind the film onto the reel, and place it in the tank. Close the lid tightly. Only then you can turn on the light.
 *Consequence: If you open the cassette in the light, the film will be instantly exposed, and all photos will be destroyed.*
 
 ### Step 2. Heating the chemicals (Water bath)
