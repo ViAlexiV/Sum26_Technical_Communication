@@ -13,4 +13,4 @@ In the *Building Healthy Habits* section, recommendations are presented as abstr
 ### 4. Formatting and Usability (Formatting & Usability)
 The document contains formatting choices that affect usability and integration into development workflows:
 * **Lists instead of plain text:** In the *Why Body Weight Changes Every Day* and *Building Healthy Habits* sections, items are listed within continuous text blocks. Long paragraphs should be broken into bulleted lists where appropriate to improve the reader's ability to scan the text.
-* **File format:** The work was submitted as a PDF. Within modern documentation processes (such as Docs-as-Code), the standard practice is to use lightweight markup languages like Markdown (.md). This ensures easy versioning, maintenance, and collaboration. It is highly recommended to convert the document to the `.md` format.
+* **File format:** The work was submitted as a PDF. It is recommended to convert the document to the `.md` format.
