@@ -1,4 +1,4 @@
-###Final Essay
+### Final Essay
 
 Before this course, I perceived documentation as a simple transfer of facts: the main goal was to describe the steps clearly and sequentially. However, in practice, it turned out to be much more complex. The iterative process of "Write → Review → Evaluate → Repeat" demonstrated that a good text relies not only on the right words but also on structure, formatting, and user care. Below, I want to summarize my learning experience and how my approach to writing and reviewing texts has evolved.  
 
